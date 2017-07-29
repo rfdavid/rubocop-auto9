@@ -37,6 +37,7 @@ Load any ruby file in your editor and press <Leader>9 (\9) or run the following 
     :RuboCopAuto9Correct
 
 Shortcuts in the quickfix window:
+
 Shortcut|Description
 --- | ---
 f | auto-correct the file
